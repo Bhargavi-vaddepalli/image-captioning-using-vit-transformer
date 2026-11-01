@@ -1,0 +1,12 @@
+
+torch
+torchvision
+transformers
+numpy
+pandas
+Pillow
+tqdm
+matplotlib
+pycocotools
+jupyter
+ipykernel
